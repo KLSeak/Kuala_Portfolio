@@ -84,6 +84,9 @@ nav{
     }
 }
 @media(max-width: 470px){
+    .nav{
+        line-height: 5.5;
+    }
     .head-left{
         margin-right: 24px;
     }
