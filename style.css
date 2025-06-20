@@ -83,11 +83,16 @@ nav{
         max-width: 100%;
     }
 }
-@media(max-width: 600px){
-    header{
-        text-align: center;
-        gap: 5px;
+@media(max-width: 576px){
+    .nav{
+        padding: 0 16px;
+    }
+    .head-left{
+        font-size: 14px;
+    }
+    .head-right{
         font-size: 12px;
+        margin-left: 10px;
     }
     .headshot{
         max-width: 100%;
