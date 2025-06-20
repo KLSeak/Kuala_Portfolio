@@ -85,7 +85,7 @@ nav{
 }
 @media(max-width: 470px){
     .nav{
-        line-height: 5.5;
+        line-height: 6;
     }
     .head-left{
         margin-right: 24px;
