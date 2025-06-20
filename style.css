@@ -84,7 +84,7 @@ nav{
     }
 }
 @media(max-width: 470px){
-    .nav > a{
+    .nav > a > i{
         line-height: 6;
     }
     .head-left{
