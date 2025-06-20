@@ -83,3 +83,15 @@ nav{
         max-width: 100%;
     }
 }
+@media(max-width: 600px){
+    header{
+        text-align: center;
+        gap: 5px;
+        font-size: 12px;
+    }
+    .headshot{
+        max-width: 100%;
+        max-height: 50%;
+        object-fit: cover;
+    }
+}
