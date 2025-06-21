@@ -18,6 +18,10 @@ nav{
 header{
     position: sticky;
     top: 0;
+    position: sticky;
+    top: 0;
+    backdrop-filter: blur(3px);
+    z-index: 100;
 }
 
 .head-left > a{
