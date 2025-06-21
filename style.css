@@ -214,3 +214,13 @@ picture > img{
 .skill-descrip > i:hover{
     transform: scale(1.2);
 }
+@media(max-width: 800px){
+    #skill-section > h2{
+        font-size: 20px;
+        text-align: center;
+    }
+    .skill-descrip > i{
+        text-align: center;
+        font-size: 30px;
+    }
+}
